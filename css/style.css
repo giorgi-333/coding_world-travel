@@ -15,6 +15,19 @@ body {
     font-family: Roboto;
     background-color: #e9f2fa;
 }
+.css {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    background-color: rgb(97, 97, 194);
+    border-radius: 50%;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
 .center-cont {
     width: 100%;
     max-width: 1140px;
